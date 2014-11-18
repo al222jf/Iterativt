@@ -1,0 +1,6 @@
+P:\Git\Iterativt\Palindrom\Palindrom\bin\Debug\Palindrom.exe.config
+P:\Git\Iterativt\Palindrom\Palindrom\bin\Debug\Palindrom.exe
+P:\Git\Iterativt\Palindrom\Palindrom\bin\Debug\Palindrom.pdb
+P:\Git\Iterativt\Palindrom\Palindrom\obj\Debug\Palindrom.csprojResolveAssemblyReference.cache
+P:\Git\Iterativt\Palindrom\Palindrom\obj\Debug\Palindrom.exe
+P:\Git\Iterativt\Palindrom\Palindrom\obj\Debug\Palindrom.pdb
