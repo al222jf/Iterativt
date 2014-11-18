@@ -1,0 +1,6 @@
+P:\Git\Iterativt\Fraction\Fraction\bin\Debug\Fraction.exe.config
+P:\Git\Iterativt\Fraction\Fraction\bin\Debug\Fraction.exe
+P:\Git\Iterativt\Fraction\Fraction\bin\Debug\Fraction.pdb
+P:\Git\Iterativt\Fraction\Fraction\obj\Debug\Fraction.csprojResolveAssemblyReference.cache
+P:\Git\Iterativt\Fraction\Fraction\obj\Debug\Fraction.exe
+P:\Git\Iterativt\Fraction\Fraction\obj\Debug\Fraction.pdb
