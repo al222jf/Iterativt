@@ -1,0 +1,6 @@
+K:\Hemsida\1DV404-iterativ-\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+K:\Hemsida\1DV404-iterativ-\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+K:\Hemsida\1DV404-iterativ-\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+K:\Hemsida\1DV404-iterativ-\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+K:\Hemsida\1DV404-iterativ-\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+K:\Hemsida\1DV404-iterativ-\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
