@@ -11,12 +11,10 @@ namespace Fraction
         
         static void Main(string[] args)
         {
-            int _numerator;
-            int _denominator;
-            
+            Fraction a = new Fraction(7, 2);
+            Fraction b = new Fraction(6, 0);
 
-            Console.Write("Ange täljaren: ");
-            _numerator = int.Parse(Console.ReadLine());
+            Console.WriteLine(a.ToString());
         }
     }
 }

@@ -24,6 +24,10 @@ namespace Fraction
             get { return _numerator; }
             set 
             {
+                if (value == 0)
+                {
+                    throw new ArgumentException("Inga nollor i täljaren!");
+                }
                 _numerator = value;
             }
 
@@ -51,21 +55,32 @@ namespace Fraction
             }
         }
 
-        public static Fraction operator *(Fraction a, Fraction b)
+        public static Fraction operator +(Fraction a, Fraction b)
         {
+            int addedNumerator = a.getNumerator * b.getDenominator + b.getNumerator * a.getDenominator;
+            int addedDenominator = a.getDenominator * b.getDenominator;
 
+            return new Fraction(addedNumerator, addedDenominator);
         }
 
-        public multiply(){
+        public static Fraction operator*(Fraction a, Fraction b)
+        {
+            int multiplyedNumerator = a.getNumerator * b.getNumerator;
+            int multiplyedDenominator = a.getDenominator * b.getDenominator;
 
+            return new Fraction(multiplyedNumerator, multiplyedDenominator);
         }
 
-        public isEqualTo(){
+        public bool isEqualTo(Fraction a, Fraction b)
+        {
+           if(Fraction a == Fraction b)
+           {
 
+           }
         }
 
-        public toSting(){
-
+        public override string ToString(){
+            return string.Format("{0}/{1}", _numerator, _denominator);
         }
     }
 }
