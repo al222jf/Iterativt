@@ -45,7 +45,8 @@ namespace Fraction
 
         public bool isNegative()
         {    
-            if( _numerator < 0 || _denominator < 0){
+            if( _numerator < 0 || _denominator < 0)
+            {
                 return true;
 
             } 
@@ -73,10 +74,17 @@ namespace Fraction
 
         public bool isEqualTo(Fraction a, Fraction b)
         {
-           if(Fraction a == Fraction b)
-           {
+            decimal frac1 = a.getNumerator / a.getDenominator;
+            decimal frac2 = b.getNumerator / b.getDenominator;
 
+            if (frac1 == frac2)
+           {
+               return true;
            }
+            else
+            {
+                return false;
+            }
         }
 
         public override string ToString(){
